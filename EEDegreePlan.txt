@@ -1,0 +1,20 @@
+Year 1
+College Algebra
+Electrical Systems
+University Physics 1
+
+Year 2
+Pre-Calculus
+University Physics 2
+Digital Electronics
+
+Year 3
+Calculus 1
+University Physics 3
+Electromagnetic Fields
+Control Systems
+
+Year 4
+Calculus 2
+Semiconductor Materials and Devices
+Technical Writing

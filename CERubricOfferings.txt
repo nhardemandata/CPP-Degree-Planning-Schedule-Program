@@ -1,0 +1,24 @@
+Dev-Ops
+An examination of development operations and their lifecycles. Students will understand dev-ops implementation and the importance of it.
+Hybrid
+12 weeks
+
+Cloud Computing
+An introduction of the benefits, implementation and reasons for cloud computing. Students will comprehend the different types of cloud computing and why companies are electing to use this type of computing.
+On Campus
+12 weeks
+
+Advanced Java Programming
+A deeper exploration of the syntax and rules governing Java programming. Students will be fluent in Java and constuction of programs in the language.
+Online Anytime
+16 weeks
+
+Design and Analysis of Algorithms
+A study of pre-defined algorithms and problem-solving implementation to develop others. Students will understand how to lay out a problem and develop an algorithm to solve it.
+Hybrid
+16 weeks
+
+Technical Writing
+A study of the foundations for writing technical pieces. Students will understand the layout and methodology for constructing technical documentation.
+On Campus
+16 weeks

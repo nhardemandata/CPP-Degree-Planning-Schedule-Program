@@ -1,0 +1,19 @@
+Year 1
+College Algebra
+Programming Fundamentals 1
+Design of Database Systems
+
+Year 2
+Pre-Calculus
+Programming Fundamentals 2
+Programming Language Concepts
+
+Year 3
+Calculus 1
+Programming Fundamentals 3
+Software Engineering
+
+Year 4
+Calculus 2
+Introduction to Telecommunications and Networks
+Technical Writing

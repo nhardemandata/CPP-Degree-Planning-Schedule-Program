@@ -1,0 +1,39 @@
+Luna, Sam
+Computer Engineer
+Programming Fundamentals 1
+Programming Fundamentals 2
+Computer Visual and Organization
+College Algebra
+Pre-Calculus
+Calculus 1
+
+Riggins, Jen
+Computer Engineer
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+Computer Visual and Organization
+College Algebra
+Pre-Calculus
+Calculus 1
+
+Howell, Hank
+Computer Engineer
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+Computer Visual and Organization
+College Algebra
+Pre-Calculus
+Calculus 1
+Technical Writing
+
+Jaurez, Xavier
+Computer Engineer
+Programming Fundamentals 1
+Programming Fundamentals 2
+Computer Visual and Organization
+College Algebra
+Pre-Calculus
+Calculus 1
+Technical Writing

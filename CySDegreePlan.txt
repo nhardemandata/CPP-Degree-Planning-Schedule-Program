@@ -1,0 +1,21 @@
+Year 1
+College Algebra
+Programming Fundamentals 1
+Computer Visual and Organization
+Operating Systems
+
+Year 2
+Pre-Calculus
+Programming Fundamentals 2
+Digital Forensics
+
+Year 3
+Calculus 1
+Programming Fundamentals 3
+Project Managment
+Network Security
+
+Year 4
+Calculus 2
+Information Assurance
+Technical Writing

@@ -1,0 +1,24 @@
+Design of Database Systems
+An examination of databases and their implementation. Students will explore data, schema, and their structures.
+Online Anytime
+16 weeks
+
+Programming Language Concepts
+A study of syntax and the underlying base rules that govern most programming languages. Students will betterr understand the composition of modern programming languages.
+On Campus
+12 weeks
+
+Software Engineering
+A deep dive into the software development process and best practices. Students will understand the software development pipeline.
+Hybrid
+16 weeks
+
+Introduction to Telecommunications and Networks
+An introduction to how networks connect the modern world and the telecommunications sent across them. Students will comprhend the basics of implementing a network to telecommunicate.
+Online Anytime
+12 weeks
+
+Technical Writing
+A study of the foundations for writing technical pieces. Students will understand the layout and methodology for constructing technical documentation.
+On Campus
+16 weeks

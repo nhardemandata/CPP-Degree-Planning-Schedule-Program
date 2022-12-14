@@ -1,0 +1,54 @@
+Diego, Karen
+Computer Science
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+
+Harden, Mary
+Computer Science
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Calculus 3
+
+Huffman, Kendra
+Computer Science
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Operating Systems
+
+Valor, Debbie
+Computer Science
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Operating Systems
+Advanced Data Structures
+
+Kullman, Nate
+Computer Science
+Programming Fundamentals 1
+Programming Fundamentals 2
+Programming Fundamentals 3
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Calculus 3

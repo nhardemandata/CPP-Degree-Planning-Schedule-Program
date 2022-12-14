@@ -1,0 +1,24 @@
+Digital Forensics
+An examination of how to track and notate digital activity and the trails it leaves behind. Students will understand the basis for logging and analyzing the digital trail.
+Online Anytime
+12 weeks
+
+Project Management
+An exploration of the structures and best practices to manage a project successfully. Students will comprehend the project management pipeline from start to finish.
+Hybrid
+16 weeks
+
+Network Security
+A study of the implementation of a secure network and ensuring verified access. Students will be able to detail the specifics of network security.
+On Campus
+12 weeks
+
+Information Assurance
+A study of the practice of managing information related risks and the steps involved to protect information systems. Students will understand the reason behind and the steps for proper information assurance.
+Online Anytime
+16 weeks
+
+Technical Writing
+A study of the foundations for writing technical pieces. Students will understand the layout and methodology for constructing technical documentation.
+On Campus
+16 weeks

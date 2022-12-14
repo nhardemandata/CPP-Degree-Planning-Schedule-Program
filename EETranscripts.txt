@@ -1,0 +1,39 @@
+Alfred, Terry
+Electrical Engineer
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Electrical Systems
+University Physics 1
+
+Michaelson, Steve
+Electrical Engineer
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Electrical Systems
+University Physics 1
+University Physics 2
+
+Gullett, Evan
+Electrical Engineer
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Calculus 3
+Electrical Systems
+University Physics 1
+
+Desmond, Rudy
+Electrical Engineer
+College Algebra
+Pre-Calculus
+Calculus 1
+Calculus 2
+Calculus 3
+Electrical Systems
+University Physics 1
+Advanced Circuits

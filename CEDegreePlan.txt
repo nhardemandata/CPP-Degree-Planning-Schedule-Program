@@ -1,0 +1,20 @@
+Year 1
+College Algebra
+Programming Fundamentals 1
+Computer Visual and Organization
+
+Year 2
+Pre-Calculus
+Programming Fundamentals 2
+Dev-Ops
+
+Year 3
+Calculus 1
+Programming Fundamentals 3
+Cloud Computing
+Advanced Java Programming
+
+Year 4
+Calculus 2
+Design and Analysis of Algorithms
+Technical Writing

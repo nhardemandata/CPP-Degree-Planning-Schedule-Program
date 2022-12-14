@@ -1,0 +1,19 @@
+Year 1
+College Algebra
+Discrete Math
+Linear Algebra
+
+Year 2
+Pre-Calculus
+Coordinate and Vector Geometry
+Probability
+
+Year 3
+Calculus 1
+Regression and Anova
+Differential Equations
+
+Year 4
+Calculus 2
+Problem Solving Methods
+Technical Writing

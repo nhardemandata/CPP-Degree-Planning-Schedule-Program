@@ -1,0 +1,29 @@
+Coordinate and Vector Geometry
+An exanimation of vectorization and its implementation in the coordinate plane. Students will be able to solve problems involving vectors and plot them in various coordinate systems.
+Online Anytime
+12 weeks
+
+Probability
+A study of the likliness that an event will or will not occur given. Students will be able to compute the probability of events given specific information.
+On Campus
+16 weeks
+
+Regression and Anova
+A study of mathematical models that show correlation and causation of events, based on data. Students will be able to build models based on supplied or collected data.
+Hybrid
+16 weeks
+
+Differential Equations
+A study of derivatives, anti-derivaties and their laws. Students will be able to find the differentials of problems, and the anti-differentials.
+Online Anytime
+16 weeks
+
+Problem Solving Methods
+An exploration of different mathematical problem solving methods and their development over the course of history. Students will be able to solve specific problem and implement correct problem solving methods based on given criteria.
+Hybrid
+12 weeks
+
+Technical Writing
+A study of the foundations for writing technical pieces. Students will understand the layout and methodology for constructing technical documentation.
+On Campus
+16 weeks
