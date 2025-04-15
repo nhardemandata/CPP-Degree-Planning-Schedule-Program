@@ -36,6 +36,7 @@ This program enables users to:
 
 ```bash
 g++ DegreeMain.cpp CompSci.cpp CompEng.cpp CySec.cpp ElecEng.cpp Math.cpp -o DegreePlanner
+./DegreePlanner
 ```
 
 ---
